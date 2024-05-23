@@ -4,9 +4,9 @@ using System.Threading.Tasks;
 
 namespace Fun_Code
 {
-    class taskList
+    class TaskList
     {
-        static async Task Main(string[] args)
+        static async Task TaskListMain(string[] args)
         {
             List<Task> tasks = new List<Task>();
 
